@@ -1,2 +1,2 @@
-# Retai lManager
+# Retail Manager
 Tim Correy .NET Retail Manager Project Course
